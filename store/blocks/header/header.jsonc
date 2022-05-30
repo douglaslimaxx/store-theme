@@ -8,8 +8,8 @@
   "header-layout.desktop": {
     "children": [
       "flex-layout.row#1-desktop",
-      "flex-layout.row#2-desktop",
-      "flex-layout.row#3-desktop",
+      // "flex-layout.row#2-desktop",
+      // "flex-layout.row#3-desktop",
       "sticky-layout#4-desktop"
     ]
   },
@@ -91,9 +91,9 @@
   "logo#desktop": {
     "props": {
       "title": "Logo",
-      "href": "/",
-      "url": "https://storecomponents.vteximg.com.br/arquivos/store-theme-logo.png",
-      "width": "180"
+      "href": "/home",
+      "url": "https://1000logos.net/wp-content/uploads/2020/07/Compact-Disc-Logo.jpeg",
+      "height": "50"
     }
   },
   "header-layout.mobile": {
