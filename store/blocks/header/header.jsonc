@@ -91,7 +91,7 @@
   "logo#desktop": {
     "props": {
       "title": "Logo",
-      "href": "/home",
+      "href": "/",
       "url": "https://1000logos.net/wp-content/uploads/2020/07/Compact-Disc-Logo.jpeg",
       "height": "50"
     }
