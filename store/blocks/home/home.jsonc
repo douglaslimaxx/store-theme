@@ -8,6 +8,8 @@
       "flex-layout.row#deals",
       "rich-text#shelf-title",
       "flex-layout.row#shelf",
+      "last-visited",
+      "greeting",
       // "info-card#home",
       // "rich-text#question",
       // "rich-text#link",
